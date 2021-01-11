@@ -1,0 +1,21 @@
+.github-profile {
+	align-self: end;
+	display: flex;
+	align-items: flex-start;
+}
+
+.github-profile img {
+	margin: 0 30px 10px 60px;
+	width: 100px;
+	height: 100px;
+}
+
+.github-profile.info {
+	padding: 10px;
+}
+
+.info > .name {
+	font-size: 125%;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
